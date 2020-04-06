@@ -1,6 +1,7 @@
 #include <ESP8266WiFi.h>
 #include <Wire.h>
 
+//Lluis Vicente Project
 String API_KEY ="<YOUR-API-KEY>";
 const char* MY_SSID = "<YOUR-SSID>"; 
 const char* MY_PWD = "<YOUR-PASSWORD>";
